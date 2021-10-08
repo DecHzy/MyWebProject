@@ -1,4 +1,4 @@
 package org.packageName.service;
 
-public class b {
+public interface UserService {
 }
