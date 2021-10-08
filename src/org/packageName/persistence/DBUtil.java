@@ -5,6 +5,7 @@ import java.sql.*;
 
 public class DBUtil {
     private final static String DRIVER_CLASS = "com.mysql.jdbc.Driver";
+    //CONNECTION_STRING 待修改
     private final static String CONNECTION_STRING= "jdbc:mysql://localhost:3306/demo";
     //?useUnicode=true&characterEncoding=utf8&useSSL=false
     //黄章延的mysql对应的账号密码
