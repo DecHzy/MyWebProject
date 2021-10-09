@@ -17,14 +17,14 @@
         }
 
         .body{
-            background-image: url(img/img2.jpg);
+            background-image: url(../img/img2.jpg);
             background-size: auto auto;
             background-repeat: no-repeat;
         }
 
     </style>
 </head>
-<body  style="background-image: url(img/img2.jpg); background-size: auto auto ;background-repeat: no-repeat">
+<body  style="background-image: url(../img/img2.jpg); background-size: auto auto ;background-repeat: no-repeat">
 <form action="login" method="post" class="login">
     <h2 style="text-align: center">
         欢迎登录
